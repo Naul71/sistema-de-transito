@@ -1,0 +1,11 @@
+.cabeca {
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 5px solid grey;
+    box-shadow: 5px 2px 3px black   
+}
+.resultado {
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid black;
+}
